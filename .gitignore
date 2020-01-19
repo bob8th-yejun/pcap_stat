@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/pcap_stat/test.pcap
+/pcap_stat/Lib
+/pcap_stat/Include

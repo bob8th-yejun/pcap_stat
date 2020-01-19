@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcap_stat", "pcap_stat\pcap_stat.vcxproj", "{524AB04A-30AC-432C-A314-A6F64990DBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524AB04A-30AC-432C-A314-A6F64990DBAB}.Debug|x64.ActiveCfg = Debug|x64
+		{524AB04A-30AC-432C-A314-A6F64990DBAB}.Debug|x64.Build.0 = Debug|x64
+		{524AB04A-30AC-432C-A314-A6F64990DBAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{524AB04A-30AC-432C-A314-A6F64990DBAB}.Debug|x86.Build.0 = Debug|Win32
+		{524AB04A-30AC-432C-A314-A6F64990DBAB}.Release|x64.ActiveCfg = Release|x64
+		{524AB04A-30AC-432C-A314-A6F64990DBAB}.Release|x64.Build.0 = Release|x64
+		{524AB04A-30AC-432C-A314-A6F64990DBAB}.Release|x86.ActiveCfg = Release|Win32
+		{524AB04A-30AC-432C-A314-A6F64990DBAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F8F7AF-1C93-45DD-A51D-A5C22156D384}
+	EndGlobalSection
+EndGlobal
